@@ -1,0 +1,16 @@
+# Core libraries for data manipulation and analysis
+numpy
+pandas
+
+# Visualization libraries
+seaborn
+matplotlib
+
+# Image processing library
+opencv-python
+
+# Deep learning framework
+tensorflow
+
+# Scikit-learn for model evaluation
+scikit-learn
